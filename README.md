@@ -56,7 +56,7 @@ gercek_deger("test_image.jpg", model, train_generator.class_indices)
 
 ---
 
-### 📈 Training Curves
+
 
 
 
